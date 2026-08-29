@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+header {
+    background-color: #0b6e69;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: 40px auto;
+}
+
+main h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+article p {
+    line-height: 1.6;
+}
