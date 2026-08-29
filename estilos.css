@@ -35,3 +35,20 @@ main h2 {
 article p {
     line-height: 1.6;
 }
+
+.destinos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+article {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.contenido {
+    padding: 20px;
+}
