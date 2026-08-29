@@ -76,3 +76,18 @@ footer {
     padding: 25px;
     margin-top: 40px;
 }
+
+article a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 18px;
+    background-color: #0b6e69;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+article a:hover {
+    background-color: #09534f;
+}
